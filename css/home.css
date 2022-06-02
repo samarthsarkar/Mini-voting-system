@@ -30,7 +30,14 @@ input{
     padding: 5px;
     font-size: 15px;
     border-radius: 5px;
-    background-color:aqua;
-    color: blue;
+    background-color: #0a3d62;
+    color: aliceblue;
     font-weight: bold;
+    transition: 0.5s;
+    position: relative;
+    overflow: hidden;
+}
+
+#loginbtn:hover{
+    color: black;
 }
