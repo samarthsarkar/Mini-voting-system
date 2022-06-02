@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-image: url(pap.jpg);
+}
+
+#headerSection{
+    padding: 10px;
+}
+  
+
+#headerSection h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    
+}
+
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 15%;
+    font-weight: bold;
+}
+
+#loginbtn{
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color:aqua;
+    color: blue;
+    font-weight: bold;
+}
