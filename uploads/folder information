@@ -1,0 +1,5 @@
+"uploads" folder contains all the images uploaded by 
+the user during registration on the registration page.
+The files in the form of images uploaded to this folder
+are then used as photo ids as well as group ids during a
+voting session.
