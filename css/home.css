@@ -41,3 +41,45 @@ input{
 #loginbtn:hover{
     color: black;
 }
+#Profile{
+    text-align: left;
+    background-color: rgb(56, 97, 127);
+    width: 30%;
+    font-size: 20px;
+    padding: 30px;
+    color: aliceblue;
+    float: left;
+}
+#Group{
+    text-align: left;
+    background-color: rgb(56, 97, 127);
+    width: 60%;
+    font-size: 20px;
+    padding: 30px;
+    color: aliceblue;
+    float: right;
+}
+#vbutton{
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: #0a3d62;
+    color: aliceblue;
+    font-weight: bold;
+    transition: 0.5s;
+    position: relative;
+    overflow: hidden;
+    float: left;
+}
+#v{
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    color: red;
+    font-weight: bold;
+    transition: 0.5s;
+    position: relative;
+    overflow: hidden;
+    float: left;
+}
